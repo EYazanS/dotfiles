@@ -113,3 +113,7 @@ source $ZSH/oh-my-zsh.sh
 export PATH="$PATH:/home/eyazan/.dotnet/tools"
 
 alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles --work-tree=$HOME'
+
+export QT_QPA_PLATFORMTHEME=qt5ct
+export GTK_THEME=Breeze-Dark
+
