@@ -51,3 +51,4 @@ vim.opt.undodir = os.getenv("HOME") .. "/.vim/undodir"
 
 require("eyazan.remap")
 require("eyazan.packer")
+require("eyazan.snippets")
